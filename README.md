@@ -37,11 +37,11 @@ Hi, I am ANAS, a professional **self-taughted** FullStack web developer from Mor
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most __**public**__ code on Github*
 
-<a href="https://ANAS-AAMMARI.xyz?ref=github">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAS-AAMMARI&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="ANAS Stats" />
 </a>
-<a href="https://ANAS-AAMMARI.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ANAS-AAMMARI&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+<a href="">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=ANAS-AAMMARI&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true"/>  
 </a>
 <br>
 <p align="center"> 
