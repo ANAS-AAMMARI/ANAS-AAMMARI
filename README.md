@@ -28,17 +28,15 @@ Hi, I am ANAS, a professional **self-taughted** FullStack web developer from Mor
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ANAS-AAMMARI.xyz?ref=github)
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ANAS-AAMMARI.xyz?ref=github)
 [![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ANAS-AAMMARI.xyz?ref=github)
-[![C](https://img.shields.io/badge/-JavaScript-000?&logo=C)](https://ANAS.xyz?ref=github)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://ANAS.xyz?ref=github)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ANAS.xyz?ref=github)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ANAS-AAMMARI.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ANAS-AAMMARI.xyz?ref=github)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://ANAS-AAMMARI.xyz?ref=github)
 [![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ANAS-AAMMARI.xyz?ref=github)
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ANAS-AAMMARI.xyz?ref=github)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 [![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://ANAS-AAMMARI.xyz?ref=github)
 [![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://ANAS-AAMMARI.xyz?ref=github)
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAS-AAMMARI&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="ANAS Stats" />
