@@ -41,7 +41,7 @@ Hi, I am ANAS, a professional **self-taughted** FullStack web developer from Mor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAS-AAMMARI&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="ANAS Stats" />
 </a>
 <a href="">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=ANAS-AAMMARI&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>  
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ANAS-AAMMARI&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>  
 </a>
 <br>
 <p align="center"> 
