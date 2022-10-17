@@ -22,7 +22,7 @@ Hi, I am ANAS, a professional **self-taughted** FullStack web developer from Mor
 - 🌱 I’m currently learning Web Dev; 
 - 💬 Ask me about anything, I would be happy to help;
 - 📫 How to reach me: [@AammariAnas](https://twitter.com/AammariAnas);
--  <a href="https://cdn.discordapp.com/attachments/1031514573980835910/1031568059577675856/ANAS-AAMMARI.pdf">CV</a>
+- 🤖<a href="https://cdn.discordapp.com/attachments/1031514573980835910/1031568059577675856/ANAS-AAMMARI.pdf">CV</a>
 
 **Languages and Tools:**  
 
