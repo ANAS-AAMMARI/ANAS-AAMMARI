@@ -1,54 +1,84 @@
-### Hi there, I'm ANAS-AAMMARI <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
- 
+# Anas Aammari
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ANAS-AAMMARI)](https://github.com/ryo-ma/github-profile-trophy) -->
-<a href="https://twitter.com/AammariAnas">
-  <img align="left" alt="aaammari Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+**Email:** anasaammari5@gmail.com  
+**Phone:** +212-762566414  
+**Website:** [aaammari.me](https://aaammari.me)  
+**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/anas-aammari)  
+**GitHub:** [GitHub Profile](https://github.com/anas-aammari)
 
-<a href="https://www.linkedin.com/in/anas-aammari-66b619176">
-  <img align="left" alt="aaammari Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+---
 
-<a href="https://github.com/ANAS-AAMMARI">
-  <img align="left" alt="aaammari Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br />
- <br />
-Hi, I am ANAS, a professional **self-taughted** FullStack web developer from Morocco.
+## Education
 
+**Faculté des Sciences Semlalia** — Marrakech, Maroc  
+*Master en Ingénierie des Systèmes d'Information*  
+2024 – present
 
-- 👨🏽‍💻 I’m [1337 School](https://1337.ma) student;
-- 🌱 I’m currently learning Web Dev; 
-- 💬 Ask me about anything, I would be happy to help;
-- 📫 How to reach me: [@AammariAnas](https://twitter.com/AammariAnas);
-- 🤖<a href="https://cdn.discordapp.com/attachments/1031514573980835910/1031568059577675856/ANAS-AAMMARI.pdf">CV</a>
+**1337 Coding School** — Khouribga, Maroc  
+*Formation en informatique; Level: 13.60*  
+2021 – present
 
-**Languages and Tools:**  
+**Faculté des Sciences El Jadida** — Maroc  
+*Licence Professionnelle Administration De Bases de Données*  
+2021 – 2022
 
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ANAS-AAMMARI.xyz?ref=github)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://ANAS.xyz?ref=github)
-[![C](https://img.shields.io/badge/-Typescript-000?&logo=TypeScript)](https://ANAS-AAMMARI.xyz?ref=github)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ANAS-AAMMARI.xyz?ref=github)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ANAS-AAMMARI.xyz?ref=github)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ANAS-AAMMARI.xyz?ref=github)
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://ANAS-AAMMARI.xyz?ref=github)
-[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ANAS-AAMMARI.xyz?ref=github)
+**Institut Spécialisé de Technologie Appliquée** — Benguerir, Maroc  
+*Diplôme de Techniques de Développement Informatique*  
+2019 – 2021
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAS-AAMMARI&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="ANAS Stats" />
-</a>
-<a href="">
-  <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=ANAS-AAMMARI&hide=html&hide_title=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=0,232526,414345"/>  
-</a>
-<br>
-<p align="center"> 
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra1nbow1&" alt="ra1nbow1"><br> -->
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ANAS-AAMMARI/count.svg" />
-</p>
+---
+
+## Experience
+
+### Onedustry Technologies — Remote, Maroc
+**Stagiaire Développeur Mobile**  
+*Juillet 2024 - Janvier 2025*
+
+- **DaintyMeal:** Développé une application mobile cross-platform permettant aux utilisateurs de découvrir et commander auprès de restaurants locaux. Utilisé Context API pour la gestion d'état, optimisé les performances pour garantir une expérience utilisateur fluide.
+- **Technologies:** React Native, Expo, JavaScript, TypeScript, Context API, REST APIs, Git
+
+### AgriEdge-UM6P — Benguerir, Maroc
+**Stagiaire Développeur Front-End**  
+*Juillet 2022 - Octobre 2022*
+
+- **Plateforme Cartographique Agricole:** Développé une plateforme web de gestion et visualisation de parcelles agricoles. Intégré des cartes interactives permettant aux utilisateurs de visualiser, gérer et consulter les données détaillées de chaque parcelle. Implémenté l'intégration de l'API OpenWeather pour afficher les conditions météorologiques en temps réel par parcelle, optimisant ainsi la prise de décision agricole.
+- **Technologies:** NextJs, React, GraphQL, Apollo Client, Tailwind CSS, Leaflet/Mapbox, OpenWeather API, Git
+
+### Délégation du Ministère de l'Éducation Nationale — Benguerir, Maroc
+**Stagiaire Développeur LMS**  
+*Juillet 2021*
+
+- **Plateforme E-Learning:** Développé et configuré une plateforme d'apprentissage en ligne basée sur Moodle pour faciliter l'enseignement à distance. Personnalisé l'interface utilisateur, configuré les modules de cours, et mis en place des fonctionnalités d'évaluation et de suivi des étudiants pour améliorer l'expérience d'apprentissage.
+- **Technologies:** Moodle LMS, PHP, MySQL, HTML/CSS, JavaScript
+
+---
+
+## Projects
+
+**Ft transcendence**  
+Développé un site web de jeu Pong multijoueur en temps réel avec système de chat et tournois. Implémenté des fonctionnalités WebSocket pour la communication temps réel et la synchronisation de jeu.  
+*Technologies: NestJS, PostgreSQL, Next.js, Socket.io*
+
+**Ft linear regression**  
+Implémenté un algorithme de régression linéaire from scratch en utilisant la descente de gradient. Projet d'introduction au machine learning avec visualisation des données et optimisation des paramètres.
+
+**InternshipEvaluation**  
+Plateforme web de gestion et d'évaluation des stages permettant le suivi des performances et la génération de rapports. Architecture full-stack avec API REST sécurisée.  
+*Technologies: Spring Boot, Next.js, PostgreSQL*
+
+**Inception**  
+Projet d'infrastructure conteneurisée utilisant Docker et Docker Compose. Orchestration de services multiples incluant NGINX, WordPress, et MariaDB dans un environnement virtualisé. Configuration de réseaux et volumes persistants pour une architecture microservices.
+
+---
+
+## Skills
+
+**Languages:** C, C++, Python, JavaScript, Java, PHP, SQL
+
+**Frameworks:** Next.js, React, React Native, NestJS, Spring Boot, Django, Expo
+
+**Databases:** PostgreSQL, MySQL, MariaDB, MongoDB
+
+**DevOps:** Docker, Git, GitHub, VMware, VirtualBox
+
+**OS:** Windows, Linux (Ubuntu, Debian, Kali Linux)
