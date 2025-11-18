@@ -58,4 +58,3 @@ Full-stack developer with 6+ months of professional experience, specializing in 
 
 💼 **Open to Full Stack Development, Mobile Development & AI opportunities**
 
-*Last Updated: November 2025*
