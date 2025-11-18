@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anas Aammari
 
-### Full Stack Developer | Mobile Development Enthusiast
+### Full Stack Developer | Mobile Development Enthusiast | AI 
 
 [![Email](https://img.shields.io/badge/Email-anasaammari5%40gmail.com-red?style=flat-square&logo=gmail)](mailto:anasaammari5@gmail.com)
 [![Website](https://img.shields.io/badge/Website-aaammari.me-blue?style=flat-square&logo=google-chrome)](https://aaammari.me)
@@ -16,10 +16,10 @@
 
 I'm a passionate full-stack developer currently pursuing my Master's in Information Systems Engineering at Faculté des Sciences Semlalia. With a strong foundation from **1337 Coding School** and hands-on experience in mobile and web development, I love building innovative solutions that make a difference.
 
-- 🔭 Currently working on cross-platform mobile applications
+- 🔭 Currently learn AI
 - 🌱 Learning advanced system architecture and DevOps
-- 💼 6+ months experience as Mobile Developer Intern at Onedustry Technologies
-- 🎓 Master's student & 1337 School alumni (Level 13.60)
+- 💼 6+ months of experience as a software developer
+- 🎓 Master's student & 1337 School currently (Level 13.60)
 
 ---
 
@@ -27,7 +27,7 @@ I'm a passionate full-stack developer currently pursuing my Master's in Informat
 
 **Frontend:** React • Next.js • React Native • TypeScript • Tailwind CSS
 
-**Backend:** NestJS • Spring Boot • Django • Node.js
+**Backend:** NestJS • Spring Boot • Django
 
 **Database:** PostgreSQL • MySQL • MongoDB
 
