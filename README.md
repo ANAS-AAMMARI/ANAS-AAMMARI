@@ -22,7 +22,7 @@ Full-stack developer with 6+ months of professional experience, specializing in 
 
 **Frontend:** React • Next.js • React Native • TypeScript • Tailwind CSS
 
-**Backend:** NestJS • Spring Boot • Django • Node.js • GraphQL
+**Backend:** NestJS • Spring Boot • FastAPI • Node.js • GraphQL
 
 **Databases:** PostgreSQL • MySQL • MongoDB
 
